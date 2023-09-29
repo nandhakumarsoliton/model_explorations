@@ -1,0 +1,6 @@
+python-dotenv
+together
+llama_index
+faiss-cpu
+setuptools
+langchain==0.0.295
